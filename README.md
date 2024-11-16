@@ -3,3 +3,4 @@
  - [Gorilla](/gorilla.md)
  - [Snow Leopard](/snowLeopard.md)
  - [Humpback Whale](/humpbackWhale.md)
+ - [Seal](/seal.md)
